@@ -5,7 +5,7 @@
 Аналітичне дослідження офіційних статистичних даних України, виконане в межах стажування **Karazin University × GoIT 3.0**.
 
 **[Переглянути інтерактивний дашборд у Tableau Public](https://public.tableau.com/app/profile/maryna.poliuha/viz/20192025_17940879088520/sheet5)**  
-**[Повна аналітична доповідь (PDF)](report/School_Education_Analytical_Report_2019_2025.pdf)** *(додати файл після фінального експорту з Word)*
+**[Повна аналітична доповідь (PDF)](School_Education_Analytical_Report_2019_2025.pdf)** 
 
 ## Мета
 
